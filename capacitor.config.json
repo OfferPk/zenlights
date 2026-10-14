@@ -1,0 +1,9 @@
+{
+  "appId": "pk.offer.zenlights",
+  "appName": "ZenLights",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "android": {
+    "backgroundColor": "#090D16"
+  }
+}
